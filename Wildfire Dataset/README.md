@@ -1,0 +1,1 @@
+This folder contains annotation files in VOC format and annotation files in YOLO format for the Wildfire dataset. For image files, please skip to https://drive.google.com/file/d/1rlc6UEdDQCiVVBqOerUPk48C0OQ1_bR_/view?usp=sharing to download.
