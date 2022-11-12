@@ -1,5 +1,5 @@
 # FireDetn
-## Two public database addresses are linked in this database：
+## There are three publicly available datasets for object detection in this database, the Wildfire dataset, the SeaDronesSee dataset, and the Redivided SeaDronesSee dataset：
 
 ### 1. The dataset of "Efficient Model for Real-time Wildfire Detection in Complex Scenarios Based on Multi-head Attention Mechanism"
 
