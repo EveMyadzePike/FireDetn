@@ -14,7 +14,12 @@ The dataset can be downloaded at this link：https://drive.google.com/file/d/1rl
 
   (1) Click "Object Detection" in the link above.
   
+  ![image](https://user-images.githubusercontent.com/86814222/201453589-03ea9315-7154-4e9f-8972-853a04481b1d.png)
+  
   (2) Download "annotations" label file and "images" image file.
+  
+  ![image](https://user-images.githubusercontent.com/86814222/201453613-0494c329-63db-4ca2-8657-3705e0f812df.png)
+
   
 ### 2.2 The "Redivided SeaDronesSee" dataset is still being uploaded because the dataset is too large.
   
