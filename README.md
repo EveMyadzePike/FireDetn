@@ -21,8 +21,15 @@ The dataset can be downloaded at this link：https://drive.google.com/file/d/1rl
   ![image](https://user-images.githubusercontent.com/86814222/201453613-0494c329-63db-4ca2-8657-3705e0f812df.png)
 
   
-### 2.2 The "Redivided SeaDronesSee" dataset is still being uploaded because the dataset is too large.
+### 2.2 The "Redivided SeaDronesSee" dataset is a repartition of the training and validation sets from the "SeaDronesSee" dataset.
   
+  (1) Labels in coco format or YOLO format for the "Redivided SeaDronesSee" dataset can be downloaded from the "Redivided SeaDronesSee" file in the repository.
+  
+  (2) The "annotations" folder contains the annotations of the training and validation sets in coco annotation format, and the test set is not annotated.
+  
+  (3) The "labels" folder contains annotations for the training and validation sets in YOLO annotation format, and no annotations for the test set.
+  
+  (4) The images in the dataset can be downloaded from the official SeaDronesSee link in 2.1.
 
 #### Reference:
 
