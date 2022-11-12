@@ -10,11 +10,13 @@ The dataset can be downloaded at this link：https://drive.google.com/file/d/1rl
 
 ### 2. The dataset of "A Drone Image-based Model for Automatically Detecting Objects in Maritime Search and Rescue Missions"
 
-The original SeaDronesSee dataset can be downloaded from "https://seadronessee.cs.uni-tuebingen.de/dataset" by following two steps：
+### The original SeaDronesSee dataset can be downloaded from "https://seadronessee.cs.uni-tuebingen.de/dataset" by following two steps：
 
   (1) Click "Object Detection" in the link above.
   
   (2) Download "annotations" label file and "images" image file.
+  
+### The "Redivided SeaDronesSee" dataset is still being uploaded because the dataset is too large.
   
 
 #### Reference:
